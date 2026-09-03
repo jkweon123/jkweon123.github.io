@@ -83,21 +83,21 @@ const PROJECTS = [
     year: "2025",
     title: "Raytheon Drone Competition",
     description:
-      "Redesigned the core workflow from a 12-step form into a 3-tap capture flow. Reduced weekly abandonment by 40%.",
+      "",
     tags: ["MAVLink", "Gazebo", "OpenCV"],
   },
   {
     year: "2023",
     title: "University Course Registration System",
     description:
-      "Built the front end for a route-planning app used by long-distance cyclists, including an offline-first map layer.",
+      "",
     tags: ["Flask", "AWS", "SQL"],
   },
   {
     year: "2022",
     title: "GWack Slack Simulator",
     description:
-      "Designed and shipped a searchable documentation system for a 40-person engineering org, cutting onboarding time in half.",
+      "",
     tags: ["Design system", "Next.js"],
   },
 ];
@@ -112,7 +112,7 @@ const PAPERS = [
     category: "Cybersecurity & Data Privacy",
     title: "Sources Close to the Matter: Assessing Cybersecurity Practices Among Working Journalists",
     description:
-      "Research exploring concepts in computer architecture, system organization, and the design of modern computing systems.",
+      "",
     image: "cybersecurity-paper.png",
     link: "usable-security-paper.pdf",
   },
@@ -121,7 +121,7 @@ const PAPERS = [
     category: "Machine Learning",
     title: "Contextual Blind Spots: A Systematic Review of Situational Context in Emotion Recognition Datasets",
     description:
-      "Research examining cybersecurity, privacy, and the ways users and organizations approach protecting sensitive information.",
+      "",
     image: "machine-learning-paper.png",
     link: "machine-learning-paper.pdf",
   },
@@ -129,8 +129,8 @@ const PAPERS = [
     number: "03",
     category: "Computer Architecture",
     title: "How Chiplet Architecture is Taking Over the Monolithic SoC",
-    description:
-      "Research focused on machine learning methods, data analysis, and the application of computational models to real-world problems.",
+    description: 
+      "",
     image: "computer-architecture.png",
     link: "chiplet_Paper.pdf",
   },
